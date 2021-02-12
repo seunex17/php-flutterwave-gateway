@@ -1,0 +1,15 @@
+{
+    "name": "zubdev/php-flutterwave-gateway",
+    "description": "An easy to use flutterwave payment gateway",
+    "type": "library",
+    "authors": [
+        {
+            "name": "seunex17",
+            "email": "seunexseun@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Zubdev": "src/"}
+    }
+}
