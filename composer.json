@@ -2,14 +2,14 @@
     "name": "zubdev/php-flutterwave-gateway",
     "description": "An easy to use flutterwave payment gateway",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "seunex17",
             "email": "seunexseun@gmail.com"
         }
     ],
-    "require": {},
     "autoload": {
-        "psr-4": {"Zubdev": "src/"}
+        "psr-4": {"Zubdev\\": "src/"}
     }
 }
