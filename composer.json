@@ -9,6 +9,7 @@
             "email": "seunexseun@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"Zubdev\\": "src/"}
     }
