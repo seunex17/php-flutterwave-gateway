@@ -1,5 +1,5 @@
 {
-    "name": "zubdev/php-flutterwave-gateway",
+    "name": "seunex17/php-flutterwave-gateway",
     "description": "An easy to use flutterwave payment gateway",
     "type": "library",
     "license": "MIT",
