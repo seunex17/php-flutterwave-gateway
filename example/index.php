@@ -1,13 +1,13 @@
 <?php
 
-use Zubdev\Transaction;
+use Transaction\Flutterwave;
 
 require_once './zubdev/Transaction.php';
 
 $secretKey = "YOUR SEC KEY";
 $publicKey = "";
 
-$txn = new Transaction($secretKey, $publicKey);
+$txn = new Flutterwave($secretKey, $publicKey);
 
 $request = [
     'tx_ref' => time(), //* A unique transaction references

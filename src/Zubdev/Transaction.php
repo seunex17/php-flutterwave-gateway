@@ -1,7 +1,7 @@
 <?php 
-namespace Zubdev;
+namespace Transaction;
 
-class Transaction
+class Flutterwave
 {
     protected $secretKey;
     protected $publicKey;
